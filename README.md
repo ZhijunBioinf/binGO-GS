@@ -48,8 +48,8 @@ Rscript Find_target_ subset.R
 This project was developed by:
 
 
-- Qingfang Ba(1468222359@qq.com) - Implementing
-- Zhijun Dai (daizhijun@hunau.edu.cn) - Supervisor
+- Qingfang Ba (1468222359@qq.com) - Implementing
+- Zhijun Dai (daizhijun@hunau.edu.cn) - Supervisor  
 We welcome contributions from the community! Feel free to submit pull requests or raise issues.
 
 
