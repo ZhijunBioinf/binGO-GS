@@ -19,13 +19,13 @@ data.table
 rrBLUP
 ```
 ### Steps to Install
-1.Clone the repository:
+* 1. Clone the repository: *
 ```http
 git clone https://github.com/ZhijunBioinf/binGO-GS.git
 cd binGO-GS
 Rscript Explore_num_SNPS.R
 ```
-2.Install dependencies:
+2. Install dependencies:
 ```http
 pip install -r requirements.txt
 ```
