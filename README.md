@@ -19,7 +19,7 @@ data.table
 rrBLUP
 ```
 ### Steps to Install
-* 1. Clone the repository: *
+1. Clone the repository: 
 ```http
 git clone https://github.com/ZhijunBioinf/binGO-GS.git
 cd binGO-GS
@@ -41,7 +41,7 @@ phenotypic_test.csv
 ##### To train the model, run:
 ```http
 Rscript Explore_num_SNPS.R
-Rscript Find_target_ subset.R
+Rscript Find_target_subset.R
 ```
 ## Contributing
 
